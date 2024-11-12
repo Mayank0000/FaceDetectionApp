@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FaceDetectionApp</string>
+    <string name="go_to_settings">Go To Settings</string>
+    <string name="ask_again">Ask Again</string>
+    <string name="no_thanks"> NO Thanks</string>
+    <string name="permission_title">Alert</string>
+    <string name="gallery_permission_denied_permanently">To use this feature, App needs Gallery permission</string>
+    <string name="permission_description_permanently">App needs Gallery permission for smooth experience</string>
+</resources>
